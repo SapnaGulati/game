@@ -1,2 +1,2 @@
 # text-based Game adventure of Python
-this is a projet using OOP in Python to create text-based Game.
+Text based game using OOP's concepts
